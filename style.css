@@ -1,0 +1,81 @@
+
+body{
+    margin: 0;
+    background-color: #E8E4C9;
+    text-align:center
+    
+    
+}
+
+nav{
+    background-color: gray;
+    padding: 15px 25px;
+}
+
+.brand-container{
+    display: inline-block;
+}  
+
+
+.brand-title{
+    display: inline-block;
+    margin: 0;
+    color: white;
+    font-family:verdana;
+    position: relative;
+    top:-15px;
+    left:15px;
+}
+ .link-container{
+   float:right;
+   position: relative;
+   top:15px;
+
+ }
+
+ .link{
+    margin: 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+    font-family: verdana;
+ }
+
+ .link:hover{
+    color: blue;
+    border: 2px solid tomato;
+ }
+
+ .nimad{
+    text-decoration: none;
+ color: black;
+padding: 10px; 
+ }
+ button{
+    background-color: lightblue;
+    border-radius: 10px;
+    padding: 5px;
+    
+ }
+
+ button:hover{
+    transition: 2s;
+
+ }
+
+ .header{
+   text-align: center;
+   font-size: 50px;
+   position: realative;
+   margin-top: 100px;
+   font-family: verdana;
+ }
+
+ table, td th {
+   text-align: center;
+   border: 1px solid black;
+   border-color: black;
+   position: relative;
+   margin-left: 40%;
+   margin-top: 50px;
+ }
